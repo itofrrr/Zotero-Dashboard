@@ -7,6 +7,9 @@
 
 ---
 
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/a446fe1c-fe54-4db6-a5d5-f0a1db552f54" />
+
+
 ## 🎯 What is this?
 
 This tool generates a **single-file HTML dashboard** from your Zotero database that helps you:
