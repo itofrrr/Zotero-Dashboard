@@ -1,6 +1,6 @@
 # Zotero Research Dashboard Generator
 
-Transform your Zotero annotations into an interactive research dashboard for writing essays and comprehensive exams.
+Transform your Zotero annotations into an interactive research dashboard for writing essays and papers.
 
 ## Features
 
