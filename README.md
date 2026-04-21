@@ -76,7 +76,7 @@ pip install pandas
 
 #### 1️⃣ Download the Script
 
-Save `comps_dashboard_FINAL.py` to your computer.
+Save `zotero_dashboard.py` to your computer.
 
 #### 2️⃣ Configure Paths
 
