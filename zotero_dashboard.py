@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Comps Research Dashboard Generator
+Zotero Research Dashboard Generator
 ===================================
 Reads a Zotero SQLite database and produces a standalone HTML dashboard with:
   - Faceted (cascading) sidebar filters
@@ -15,7 +15,7 @@ CONFIGURATION INSTRUCTIONS:
 1. Set your Zotero database path below
 2. Customize the color mapping to match YOUR Zotero highlight colors
 3. Set the output location for the HTML file
-4. Run the script: python3 comps_dashboard_multitag.py
+4. Run the script: python3 zotero_dashboard.py
 
 Fix log (v3):
   - Added multi-select tag filter with checkboxes
@@ -270,7 +270,7 @@ html_content = f"""<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Comps Research Dashboard</title>
+<title>Zotero Research Dashboard</title>
 <style>
 *{{box-sizing:border-box}}
 body{{
