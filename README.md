@@ -7,7 +7,7 @@
 
 ---
 
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/a446fe1c-fe54-4db6-a5d5-f0a1db552f54" />
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/8bdb5757-d5d1-49a3-b99a-c30ca02ac90a" />
 
 
 ## 🎯 What is this?
