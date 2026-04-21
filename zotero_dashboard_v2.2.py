@@ -45,7 +45,7 @@ import sys
 ZOTERO_DB_PATH = os.path.expanduser("~/Zotero/zotero.sqlite")
 
 # Where should the HTML dashboard be saved?
-OUTPUT_HTML_PATH = os.path.expanduser("~/Desktop/Comps_Dashboard.html")
+OUTPUT_HTML_PATH = os.path.expanduser("~/Desktop/Zotero_Dashboard.html")
 
 # Temporary working directory (will be created if doesn't exist)
 TEMP_DIR = os.path.expanduser("~/Documents/Zotero_Dashboard")
