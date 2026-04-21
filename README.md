@@ -21,7 +21,7 @@ pip install pandas --break-system-packages
 
 ### 2. Configure the Script
 
-Open `zotero_dashboard_v2.2.py` and edit the configuration section at the top:
+Open `zotero_dashboard.py` and edit the configuration section at the top:
 
 #### Set Your Zotero Database Path
 
