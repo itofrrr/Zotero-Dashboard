@@ -76,7 +76,7 @@ pip install pandas
 
 #### 1️⃣ Download the Script
 
-Save `zotero_dashboard.py` to your computer.
+Save `zotero_dashboard_v2.2.3.py` to your computer.
 
 #### 2️⃣ Configure Paths
 
@@ -87,7 +87,7 @@ Open the script and edit the top section:
 ZOTERO_DB_PATH = os.path.expanduser("~/Zotero/zotero.sqlite")
 
 # Where to save the HTML dashboard
-OUTPUT_HTML_PATH = os.path.expanduser("~/Desktop/Comps_Dashboard.html")
+OUTPUT_HTML_PATH = os.path.expanduser("~/Desktop/Zotero_Dashboard.html")
 ```
 
 <details>
@@ -116,7 +116,7 @@ OUTPUT_HTML_PATH = os.path.expanduser("~/Desktop/Dashboard.html")
 #### 3️⃣ Run the Script
 
 ```bash
-python3 comps_dashboard_FINAL.py
+python3 zotero_dashboard_v2.2.3.py
 ```
 
 **That's it!** Open the generated HTML file in your browser.
@@ -502,7 +502,7 @@ Just duplicate the script and change the configuration!
 # Create a shell script
 echo '#!/bin/bash
 cd ~/Research
-python3 comps_dashboard_FINAL.py
+python3 zotero_dashboard_v2.2.3.py
 echo "Dashboard updated!"
 ' > update_dashboard.sh
 
@@ -515,7 +515,7 @@ chmod +x update_dashboard.sh
 REM Create update_dashboard.bat
 @echo off
 cd C:\Research
-python comps_dashboard_FINAL.py
+python zotero_dashboard_v2.2.3.py
 echo Dashboard updated!
 pause
 ```
