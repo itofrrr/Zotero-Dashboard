@@ -333,7 +333,7 @@ MIT License - Free to use, modify, and distribute.
 
 **Academic Citation:**
 ```
-Ferreira Pereira, I. (2026). Zotero Research Dashboard Generator. 
+FPereira, I. F. (2026). Zotero Research Dashboard Generator. 
 GitHub: https://github.com/itofrrr/Zotero-Dashboard
 ```
 
