@@ -15,7 +15,7 @@
 ## 🚀 Quick Start (3 Steps)
 
 ### 1. Install Python & Dependencies
-
+Open a terminal and run:
 ```bash
 pip install pandas
 ```
