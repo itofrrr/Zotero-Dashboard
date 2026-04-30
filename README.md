@@ -353,8 +353,8 @@ Built for researchers who:
 
 <div align="center">
 
-**Happy research! 📚✨**
+**Happy readings with your research! 📚✨**
 
-<sub>Built by a researcher, for researchers</sub>
+<sub>Built by a researcher while procrastinating work, so that other don't have to </sub>
 
 </div>
