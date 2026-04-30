@@ -80,7 +80,7 @@ pip install pandas
 
 #### 1️⃣ Download the Script
 
-Save `zotero_dashboard_v2.2.3.py` to your computer.
+Save `zotero_dashboard_v2.5.0.py` to your computer.
 
 #### 2️⃣ Configure Paths
 
@@ -120,7 +120,7 @@ OUTPUT_HTML_PATH = os.path.expanduser("~/Desktop/Dashboard.html")
 #### 3️⃣ Run the Script
 
 ```bash
-python3 zotero_dashboard_v2.2.3.py
+python3 zotero_dashboard_v2.5.0.py
 ```
 
 **That's it!** Open the generated HTML file in your browser.
@@ -506,7 +506,7 @@ Just duplicate the script and change the configuration!
 # Create a shell script
 echo '#!/bin/bash
 cd ~/Research
-python3 zotero_dashboard_v2.2.3.py
+python3 zotero_dashboard_v2.5.0.py
 echo "Dashboard updated!"
 ' > update_dashboard.sh
 
@@ -519,7 +519,7 @@ chmod +x update_dashboard.sh
 REM Create update_dashboard.bat
 @echo off
 cd C:\Research
-python zotero_dashboard_v2.2.3.py
+python zotero_dashboard_v2.5.0.py
 echo Dashboard updated!
 pause
 ```
