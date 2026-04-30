@@ -41,7 +41,7 @@ Or in Zotero: Edit → Preferences → Advanced → Files and Folders → "Data 
 </details>
 
 ### 3. Run
-
+Open a terminal and run:
 ```bash
 python3 zotero_dashboard_v2_5_0.py
 ```
