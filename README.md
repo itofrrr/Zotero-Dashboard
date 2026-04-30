@@ -355,6 +355,6 @@ Built for researchers who:
 
 **Happy readings with your research! 📚✨**
 
-<sub>Built by a researcher while procrastinating work, so that other don't have to </sub>
+<sub>Built by a researcher while procrastinating work, so that others don't have to </sub>
 
 </div>
