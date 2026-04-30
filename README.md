@@ -64,7 +64,7 @@ Generates a **single-file HTML dashboard** from your Zotero database that lets y
 | **🔗 Zotero Links** | Click papers/notes to open directly in Zotero |
 | **📊 Three Views** | Notes (Kanban), Abstracts (summaries), Bibliography (table) |
 
-**Perfect for:** PhD students, comprehensive exams, systematic reviews, literature analysis
+**Some uses:** PhD students, comprehensive exams, systematic reviews, literature analysis
 
 ---
 
@@ -324,7 +324,6 @@ pause
 
 Found a bug? Have a feature idea? Contributions welcome!
 
-**Philosophy:** Keep it simple, focused, and single-file.
 
 ---
 
@@ -354,7 +353,7 @@ Built for researchers who:
 
 <div align="center">
 
-**Happy researching! 📚✨**
+**Happy research! 📚✨**
 
 <sub>Built by a researcher, for researchers</sub>
 
