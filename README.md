@@ -8,7 +8,8 @@
 
 ---
 
-<img width="2553" height="1361" alt="Dashboard preview showing Kanban board with research notes" src="https://github.com/user-attachments/assets/b28e49d6-697d-4b99-a2f9-7244e9242c70" />
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/ab43e4fe-cf1c-498b-a012-71db15e80a58" />
+
 
 ---
 
